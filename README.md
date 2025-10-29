@@ -1,6 +1,6 @@
 # Installing-ROS2-and-turtlesim
 
-1. install humble hawksbill installation steps i fallowed is in this link
+1. install humble hawksbill, installation steps i fallowed is in this link
 https://docs.google.com/presentation/d/1XiIcqTIu_gaOxQyO9sP2DArzsQITcMc2/edit?slide=id.p36#slide=id.p36
 
 2. run these codes in terminal:
